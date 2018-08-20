@@ -1,0 +1,13 @@
+# Terraform
+/*.tfstate.backup
+/*.tfstate
+/.terraform
+
+# Intelij IDE
+/.idea
+*.iml
+
+# AWS
+/.aws
+
+/*.pem
